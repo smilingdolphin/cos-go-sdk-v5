@@ -1,4 +1,4 @@
-module github.com/fpay/cos-go-sdk-v5
+module github.com/smilingdolphin/cos-go-sdk-v5
 
 require (
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
